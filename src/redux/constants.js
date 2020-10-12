@@ -1,0 +1,7 @@
+const constants = {
+    GET_CATEGORY_REQUEST: "GET_CATEGORY_REQUEST",
+    GET_CATEGORY_SUCCESS: "GET_CATEGORY_SUCCESS",
+    GET_CATEGORY_ERROR: "GET_CATEGORY_ERROR",
+}
+
+export default constants;
